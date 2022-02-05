@@ -1,0 +1,17 @@
+{
+    "type": "origins:toggle_night_vision",
+    "strength": 0.5,
+    "conditions": [
+    {
+        "type": "origins:dimension",
+        "dimension": "minecraft:overworld",
+        "inverted:true"
+    },
+    {
+        "type:" "origins:daytime",
+        "inverted:true"
+    }
+  ],
+  "name": "placeholder",
+  "description": "placeholder"
+}

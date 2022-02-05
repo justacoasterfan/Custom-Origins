@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"noname:hpincrease",
+		"noname:hornprojectile",
+		"noname:pantsless",
+		"noname:juliertrinkt",
+		"noname:waterdash",
+		"noname:playervision",
+		"noname:sleephurt"
+	],
+	"icon": "minecraft:amethyst_shard",
+	"order": 1,
+	"impact": 3,
+	"name": "Juli",
+	"description": "Juli."
+}

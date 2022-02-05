@@ -1,0 +1,10 @@
+{
+    "type": "origins:restrict_armor",
+    "legs": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 2
+    },
+    "name": "Keine Hose",
+    "description": "Zack, da war die Hose weg! -Juli 2022"
+}

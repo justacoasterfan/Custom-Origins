@@ -1,0 +1,16 @@
+{
+    "type": "origins:launch",
+    "cooldown": 200,
+    "hud_render": {
+        "bar_index": 4
+    },
+    "sound": "minecraft:entity.ghast.scream",
+    "speed": 2,
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": true
+    },
+
+    "name": "Hilfe",
+    "description": "Ich hab irgendwie Angst vor dem Ertrinken -Juli 2022"
+}

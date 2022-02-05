@@ -1,0 +1,14 @@
+{
+    "type": "origins:entity_glow",
+    "entity_condition": {
+      "type": "origins.gamemode",
+      "gamemode": "survival"
+    },
+    "use_teams": false,
+    "red": 1.0,
+    "green": 0.0,
+    "blue": 0.7,
+
+    "name": "Beobachter",
+    "description": "ich bin ein Beobachter, ich beobachte -Juli 2021"
+}

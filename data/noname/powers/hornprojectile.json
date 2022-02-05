@@ -1,0 +1,15 @@
+{
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:snowball",
+    "cooldown": 150,
+    "hud_render": {
+        "bar_index": 2
+    },
+    "tag": "{Item: {id: 'minecraft:amethyst_shard', Count: 1b}}",
+    "key": {
+        "key": "key.origins.secondary_active",
+        "continuous": true
+    },
+    "name": "Horny",
+    "description": "Warum hör ich Kampfmucke? Oh, hier brennts ja doch -Juli 2022"
+}

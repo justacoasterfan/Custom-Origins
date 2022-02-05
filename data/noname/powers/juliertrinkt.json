@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": -1
+    },
+    "name": "#juliertrinkt",
+    "description": "Ertrinken soll relativ angenehm sein, habe ich mal gehört -Juli 2021"
+}

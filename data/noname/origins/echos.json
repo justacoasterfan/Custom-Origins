@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"noname:nofall",
+		"noname:jumpboost",
+		"noname:speed",
+		"noname:nightvision",
+		"noname:hpdecrease",
+		"noname:waterexhaustion",
+		"noname:onlymeat",
+    "noname:milkapple"
+	],
+	"icon": "minecraft:milk_bucket",
+	"order": 1,
+	"impact": 3,
+	"name": "Echos",
+	"description": "Echos."
+}
