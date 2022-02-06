@@ -10,7 +10,10 @@
     "type": "origins:apply_effect",
     "effect": "minecraft:absorption",
     "duration": 2400,
-    "amplifier": 2
+    "amplifier": 2,
+    "is_ambient": true,
+    "show_particles": true,
+    "show_icon": true
   },
   "food_modifier": {
     "name": "Increased Food points",
@@ -22,6 +25,6 @@
     "operation": "addition",
     "value": 3
   },
-  "name": "placeholder",
-  "description": "placeholder"
+  "name": "Milch = Gapple",
+  "description": "Echos ist eine Katze."
 }

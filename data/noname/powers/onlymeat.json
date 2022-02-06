@@ -6,13 +6,19 @@
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:cooked_porkchop"
+          "item": "minecraft:mushroom_stew"
         }
       },
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:milk_bucket"
+          "item": "minecraft:bread"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
         }
       },
 			{
@@ -21,41 +27,22 @@
           "item": "minecraft:porkchop"
         }
       },
-
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:cooked_cod"
-        }
-      },
-      {
-        "type": "origins:ingredient",
-        "ingredient": {
-          "item": "minecraft:cooked_salmon"
+          "item": "minecraft:cookie"
         }
       },
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:cake"
+          "item": "minecraft:melon_slice"
         }
       },
-			{
+      {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:cod"
-        }
-      },
-			{
-        "type": "origins:ingredient",
-        "ingredient": {
-          "item": "minecraft:salmon"
-        }
-      },
-			{
-        "type": "origins:ingredient",
-        "ingredient": {
-          "item": "minecraft:pufferfish"
+          "item": "minecraft:dried_kelp"
         }
       },
       {
@@ -70,10 +57,41 @@
           "item": "minecraft:cooked_chicken"
         }
       },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:baked_potato"
+        }
+      },
 			{
         "type": "origins:ingredient",
         "ingredient": {
           "item": "minecraft:beef"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:potato"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:poisonous_potato"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:apple"
+        }
+      },
+
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:pumpkin_pie"
         }
       },
       {
@@ -94,16 +112,47 @@
           "item": "minecraft:cooked_mutton"
         }
       },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:chorus_fruit"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:suspicious_stew"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:beetroot_soup"
+        }
+      },
+			 {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:beetroot"
+        }
+      },
+
+			 {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:carrot"
+        }
+      },
 			 {
         "type": "origins:ingredient",
         "ingredient": {
           "item": "minecraft:rabbit"
         }
       },
-			 {
+      {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:tropical_fish"
+          "item": "minecraft:sweet_berries"
         }
       },
 			{
@@ -129,10 +178,21 @@
         "ingredient": {
           "item": "minecraft:chicken"
         }
-			}
-    ],
-    "inverted": true
+			},
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:golden_apple"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:honey_bottle"
+        }
+      }
+    ]
     },
-    "name": "placeholder",
-    "description": "placholder"
+    "name": "Fischfresser",
+    "description": "Echos ist eine Katze."
 }

@@ -4,14 +4,13 @@
     "conditions": [
     {
         "type": "origins:dimension",
-        "dimension": "minecraft:overworld",
-        "inverted:true"
+        "dimension": "minecraft:overworld"
     },
     {
         "type:" "origins:daytime",
         "inverted:true"
     }
   ],
-  "name": "placeholder",
-  "description": "placeholder"
+  "name": "Nachtsicht",
+  "description": "Echos ist eine Katze."
 }
