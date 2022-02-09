@@ -3,8 +3,8 @@
   "modifier": {
 	"name": "Origin modifier",
 	"operation": "multiply_base",
-	"value": 0.35
+	"value": -0.75
 },
-"name": "Mehr Hunger",
-"description": "Weil du nur Kekse essen kannst und wir dich gerne leiden sehen."
+"name": "Weniger Hunger",
+"description": "Weil du nur Kekse essen kannst und wir dich zwar gerne leiden sehen, aber trotzdem noch keine Arschloescher sind."
 }
