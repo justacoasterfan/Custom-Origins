@@ -2,6 +2,10 @@
     "replace": false,
     "origins": [
         "noname:juli",
-        "noname:echos"
+        "noname:echos",
+        "noname:banehimself",
+        "noname:thunfishpanda",
+        "noname:warrior",
+        "noname:thairice"
     ]
 }

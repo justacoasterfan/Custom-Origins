@@ -1,0 +1,9 @@
+{
+  "type": "origins:modify_player_spawn",
+  "dimension": "the_nether",
+  "dimension_distance_multiplier": 0.125,
+  "spawn_strategy": "center",
+
+  "name": "Netherspawn",
+  "description": "Du spawnst im nether, oder hast du schonmal einen Panzer in der Overworld gesehen?"
+}

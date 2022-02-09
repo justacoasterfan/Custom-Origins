@@ -1,0 +1,33 @@
+{
+  "type": "origins:multiple",
+  "modify_size": {
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:execute_command",
+        "command": "execute if entity thunfishpanda as thunfishpanda run scale set pehkui:height 0.25"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute if entity thunfishpanda as thunfishpanda run scale set pehkui:width 0.25"
+      }
+]
+},
+"key": {
+  "key": "key.forward",
+  "continuous": false
+}
+},
+"jump_modifier": {
+  "type": "origins:modify_jump",
+	"modifier": {
+	  "name": "Origin modifier",
+	  "operation": "multiply_total",
+	  "value": -0.3333
+}
+},
+"name": "Heul doch",
+"description": "Die Wahrheit oder doch ein Meme? Keine Ahnung..."
+}

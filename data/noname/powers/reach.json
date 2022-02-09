@@ -1,0 +1,13 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+    {
+      "name": "Extra Reach block reach",
+      "attribute": "reach-entity-attributes:reach",
+      "value": 1.5,
+      "operation": "addition"
+    }
+  ],
+  "name": "Building Reach",
+  "description": "Gern geschehen."
+}

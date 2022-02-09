@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+	"name": "Origin modifier",
+	"operation": "multiply_base",
+	"value": -0.75
+},
+"name": "Kein großer Magen",
+"description": "Kleine Menschen müssen nicht so viel essen XD"
+}

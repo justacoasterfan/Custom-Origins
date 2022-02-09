@@ -1,0 +1,9 @@
+{
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "drown"
+    },
+    "name": "Waterbreathing",
+    "description": "Du kannst nicht ertrinken, weil du ein Beluga bist, obwohl die ertrinken können, frag nicht denn es wurde soo gemacht und auch wenn sie eigentlich nach 20 minuten hoch müssen, musst du nicht. Bist halt irgendwie anders als die. Seh dich halt als was besseres oder so kp, weiß auch nicht worum es hier geht..."
+}

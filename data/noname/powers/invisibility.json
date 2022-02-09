@@ -4,17 +4,17 @@
         "type": "origins:toggle",
         "active_by_default": false,
         "key": {
-            "key": "key.origins.secondary_active"
+            "key": "key.origins.primary_active"
         }
     },
-    "night_vision": {
-        "type": "origins:night_vision",
-        "strength": 0.5,
+    "invisibility": {
+        "type": "origins:invisibility",
+        "render_armor": true,
         "condition": {
             "type": "origins:power_active",
             "power": "*:*_toggle"
         }
     },
-    "name": "placeholder",
-    "description": "placeholder"
+    "name": "Russische Spionen Katze",
+    "description": "Echos ist eine Russische Spionen Katze, hast du schonmal eine gesehen?"
 }

@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "name": "More Damage taken",
+        "operation": "addition",
+        "value": 1
+    },
+    "name": "Fortnite Strafe",
+    "description": "Nimmst mehr Schaden, kommt davon..."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "origins:prevent_sleep",
+    "message": "You're not hot enough to sleep",
+    "condition": {
+        "type": "origins:on_fire",
+        "inverted": true
+    },
+    "name": "Burn to Sleep",
+    "description": "Hast du etwa schonmal einen nicht brennenden Panzer im Bett gesehen?"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "addition",
+        "value": 2.0
+    },
+    "name": "JJBA",
+    "description": "Machst mehr Schaden, weil IST BESTER ANIME !!!"
+}

@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"noname:fireball",
+		"noname:defenseup",
+		"noname:slow",
+    "noname:nosleep",
+    "noname:netherspawn",
+    "noname:stride",
+    "noname:fireres",
+    "noname:nowater"
+	],
+	"icon": "minecraft:ancient_debris",
+	"order": 1,
+	"impact": 3,
+	"name": "Warrior10JJ",
+	"description": "Warrior10JJ."
+}

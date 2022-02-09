@@ -1,0 +1,36 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:execute_command",
+        "command": "execute as @e[distance=..10,name=!DerHeiligeServer] run effect give @s slowness 5 255 true"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute as @e[distance=..10,name=!DerHeiligeServer] run effect give @s slow_falling 5 255 true"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute as @e[distance=..10,name=!DerHeiligeServer] run effect give @s mining_fatigue 5 255 true"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute as @e[distance=..10,name=!DerHeiligeServer] run effect give @s jump_boost 5 128 true"
+      }
+
+]
+},
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": false
+  },
+  "cooldown": 900,
+  "hud_render": {
+    "bar_index": 8
+  },
+
+  "name": "Za Warudo",
+  "description": "MUDA MUDA MUDA"
+}

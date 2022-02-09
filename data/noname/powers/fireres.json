@@ -1,0 +1,8 @@
+{
+  "type": "origins:invulnerability",
+  "damage_condition": {
+    "type": "origins:fire"
+  },
+  "name": "No Firedamage",
+  "description": "Kp, Panzer halt oder einfach so."
+}

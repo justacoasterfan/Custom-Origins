@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"noname:patrickstinkt",
+		"noname:waterbreathing",
+    "noname:watervision",
+		"noname:grace",
+		"noname:moreeexhaustion",
+		"noname:onlycookies",
+    "noname:cookiekit"
+	],
+	"icon": "minecraft:cookie",
+	"order": 1,
+	"impact": 3,
+	"name": "Thairice",
+	"description": "Thairice."
+}

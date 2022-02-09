@@ -1,0 +1,23 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:give",
+        "stack": {
+          "item": "minecraft:dirt",
+          "amount": 64
+        }
+      },
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.ender_dragon.death"
+      }
+    ]
+  },
+  "interval": 31847,
+
+  "name": "Dirt",
+  "description": "Wie kann man sich so was dummes wünschen...?"
+}

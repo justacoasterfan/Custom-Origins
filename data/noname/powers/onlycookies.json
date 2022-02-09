@@ -27,10 +27,41 @@
           "item": "minecraft:porkchop"
         }
       },
+
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "minecraft:cookie"
+          "item": "minecraft:cooked_cod"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:cooked_salmon"
+        }
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:cake"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:cod"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:salmon"
+        }
+      },
+			{
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:pufferfish"
         }
       },
       {
@@ -149,6 +180,12 @@
           "item": "minecraft:rabbit"
         }
       },
+			 {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "minecraft:tropical_fish"
+        }
+      },
       {
         "type": "origins:ingredient",
         "ingredient": {
@@ -187,6 +224,6 @@
       }
     ]
     },
-    "name": "Fischfresser",
-    "description": "Echos ist eine Katze."
+    "name": "Beluga Cookies",
+    "description": "Krümelmonster, mehr gibt's nicht mehr für dich..."
 }

@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"noname:reach",
+		"noname:timefreeze",
+		"noname:additionaldamagedealt",
+		"noname:additionaldamagetaken"
+	],
+	"icon": "minecraft:gilded_blackstone",
+	"order": 1,
+	"impact": 3,
+	"name": "BaneHimself",
+	"description": "BaneHimself."
+}
