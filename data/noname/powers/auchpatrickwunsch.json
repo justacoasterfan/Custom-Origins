@@ -1,5 +1,7 @@
 {
-  "type": "origins:toggle",
+  "type": "origins:multiple",
+  "toggle": {
+    "type": "origins.toggle",
   "key": {
     "key": "key.origins.secondary_active",
     "continuous": false
@@ -9,8 +11,16 @@
     "type": "origins:food_level",
     "comparison": ">",
     "compare_to": 18
+    }
+  },
+  "hunger": {
+    "type:origins.modify_exhaustion",
+    "modifier": {
+      "name": "Origin modifier",
+      "operation": "multiply_base",
+      "value": 3.0
+    }
   },
   "name": "Phasing",
-  "description": "Brauchen schlechte leute halt.",
-  "hidden": false
+  "description": "Brauchen schlechte leute halt."
 }
