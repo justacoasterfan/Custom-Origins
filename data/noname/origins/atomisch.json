@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"noname:speedatomisch",
+		"noname:launchatomisch",
+		"noname:hpincreaseatomisch",
+		"noname:shulkerinv",
+    "noname:foodatomisch",
+    "noname:sleephurtatomisch",
+    "noname:silverfish"
+	],
+	"icon": "minecraft:grass_block",
+	"order": 1,
+	"impact": 3,
+	"name": "Atomisch",
+	"description": "Atomisch."
+}
