@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"noname:wand",
+		"noname:healcloud",
+		"noname:broom",
+		"noname:poisoncloud",
+		"noname:effectbuff",
+		"noname:hpdecreasemermeri",
+		"noname:customarmor",
+    "noname:swimhurt",
+    "noname:minenerf",
+    "noname:effectnerf"
+	],
+	"icon": "minecraft:enchantment_table",
+	"order": 1,
+	"impact": 3,
+	"name": "Merlin",
+	"description": "Merlin."
+}

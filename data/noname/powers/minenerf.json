@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_break_speed",
+    "block_condition": {
+        "type": "origins:material",
+        "material": "stone"
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.5
+    },
+    "name": "",
+    "description": ""
+}

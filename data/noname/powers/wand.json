@@ -1,0 +1,20 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.attack_speed",
+        "operation": "addition",
+        "value": -1,
+        "name": "Decreased attack speed"
+    },
+    "tick_rate": 20,
+    "condition": {
+        "type": "origins:using_item",
+        "item_condition": {
+          "type": "origins:nbt",
+          "nbt": "{wand: 1b}"
+        },
+        "inverted": true
+    },
+    "name": "",
+    "description": ""
+}
