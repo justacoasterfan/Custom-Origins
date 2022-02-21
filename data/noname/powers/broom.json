@@ -2,6 +2,6 @@
     "type": "origins:elytra_flight",
     "render_elytra": true,
     "texture_location": "minecraft:textures/entity/elytra.png",
-    "name": "",
-    "description": ""
+    "name": "Besen",
+    "description": "Jeder Zauberer, der was von sich hält kann fliegen..."
 }

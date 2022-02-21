@@ -9,10 +9,14 @@
     "bypasses_armor": true
   },
   "protection_enchantment": "origins:water_protection",
-"protection_effectiveness": 100.0,
+"protection_effectiveness": 1.0,
 "condition": {
-            "type": "origins:in_rain"
+            "type": "origins:in_block",
+            "block_condition": {
+              "type": "origins:block",
+              "block": "minecraft:water"
+            }
 },
-  "name": "",
-  "description": ""
+  "name": "Au, Wasser",
+  "description": "Du bist Zauberer und nicht Poseidon, was willst du im Wasser?"
 }

@@ -11,7 +11,7 @@
     "noname:minenerf",
     "noname:effectnerf"
 	],
-	"icon": "minecraft:enchantment_table",
+	"icon": "minecraft:enchanting_table",
 	"order": 1,
 	"impact": 3,
 	"name": "Merlin",
