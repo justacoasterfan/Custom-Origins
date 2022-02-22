@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+	"name": "Origin modifier",
+	"operation": "multiply_base",
+	"value": 0.35
+},
+"name": "Mehr Hunger",
+"description": "Du bist Gott, Gott muss viel Essen, wenn er die Welt schöpft."
+}

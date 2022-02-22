@@ -177,5 +177,5 @@
     },
     "name": "Essen?",
     "description": "Hast du schonmal ein Atom was essen sehen?",
-    "hidden": true
+    "hidden": false
 }

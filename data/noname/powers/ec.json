@@ -1,0 +1,16 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+      "type": "origins:ender_chest",
+    },
+    "cooldown": 1,
+    "hud_render": {
+        "should_render": false
+    },
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": true
+    },
+    "name": "Enderchest immer dabei",
+    "description": "Du bist Gott, Gott behält seinen Stuff."
+}

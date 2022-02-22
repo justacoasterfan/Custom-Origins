@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"noname:hover",
+		"noname:ec",
+		"noname:diaonly",
+		"noname:halfdurability",
+		"noname:moreexhaustionjustacoasterfan"
+	],
+	"icon": "minecraft:command_block",
+	"order": 1,
+	"impact": 3,
+	"name": "justacoasterfan",
+	"description": "justacoasterfan."
+}
