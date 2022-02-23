@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"noname:moreknockback",
+		"noname:immunetoprojectiles",
+		"noname:lessfall",
+		"noname:speedseweryn",
+		"noname:hpdecreaseseweryn",
+		"noname:moredamage"
+	],
+	"icon": "minecraft:sunflower",
+	"order": 1,
+	"impact": 3,
+	"name": "S3w3r",
+	"description": "S3w3r."
+}

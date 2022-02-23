@@ -1,7 +1,7 @@
 {
   "type": "origins:fire_projectile",
   "entity_type": "minecraft:fireball",
-  "cooldown": 180,
+  "cooldown": 300,
   "hud_render": {
     "should_render": true,
 	"bar_index": 7

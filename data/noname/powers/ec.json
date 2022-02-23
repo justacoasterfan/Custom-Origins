@@ -1,7 +1,7 @@
 {
     "type": "origins:active_self",
     "entity_action": {
-      "type": "origins:ender_chest",
+      "type": "origins:ender_chest"
     },
     "cooldown": 1,
     "hud_render": {
