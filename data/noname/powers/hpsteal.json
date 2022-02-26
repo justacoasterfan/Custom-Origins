@@ -1,0 +1,9 @@
+{
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+      "type": "origins:damage",
+      "amount": -0.5
+    },
+    "name": "Lifesteal",
+    "description": "Weil Vampir und so"
+}

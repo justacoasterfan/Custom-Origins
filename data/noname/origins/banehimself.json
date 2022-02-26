@@ -2,6 +2,12 @@
 	"powers": [
 		"noname:reach",
 		"noname:timefreeze",
+		"noname:daytimehurts",
+		"noname:spawninnether",
+		"noname:climb",
+		"noname:hpsteal",
+		"noname:eyeprojectile",
+		"noname:immunetonetherfire",
 		"noname:additionaldamagedealt",
 		"noname:additionaldamagetaken"
 	],

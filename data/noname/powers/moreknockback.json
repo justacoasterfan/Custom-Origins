@@ -1,4 +1,9 @@
 {
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+        "type": "origins:add_velocity",
+        "z": 2
+    },
   "name": "Knockback++",
-  "description": "Knockback 5 auf Nachfrage, weil Tennisschläger und so."
+  "description": "Weil Tennisschläger und so."
 }

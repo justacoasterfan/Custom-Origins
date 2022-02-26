@@ -1,0 +1,17 @@
+{
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:snowball",
+    "cooldown": 150,
+    "divergence": 0,
+    "count": 3,
+    "hud_render": {
+        "bar_index": 3
+    },
+    "tag": "{Item: {id: 'minecraft:redstone', Count: 1b}}",
+    "key": {
+        "key": "key.saveToolbarActivator",
+        "continuous": true
+    },
+    "name": "\"Laser Eyes\"",
+    "description": "Lächerliche MC Umsetzung be like"
+}

@@ -5,19 +5,19 @@
     "actions": [
       {
         "type": "origins:execute_command",
-        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s slowness 5 255 true"
+        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s slowness 8 255 true"
       },
       {
         "type": "origins:execute_command",
-        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s slow_falling 5 255 true"
+        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s slow_falling 8 255 true"
       },
       {
         "type": "origins:execute_command",
-        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s mining_fatigue 5 255 true"
+        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s mining_fatigue 8 255 true"
       },
       {
         "type": "origins:execute_command",
-        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s jump_boost 5 128 true"
+        "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s jump_boost 8 128 true"
       }
 
 ]

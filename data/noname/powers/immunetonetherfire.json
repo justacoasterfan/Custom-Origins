@@ -1,0 +1,13 @@
+{
+  "type": "origins:invulnerability",
+  "condition": {
+      "type": "origins:dimension",
+      "dimension": "minecraft:the_nether"
+  },
+  "damage_condition": {
+    "type": "origins:fire"
+  },
+
+  "name": "No Firedamage",
+  "description": "Netherspawn sonst halt schon krass schmerzhaft."
+}

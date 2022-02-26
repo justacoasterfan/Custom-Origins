@@ -1,0 +1,10 @@
+{
+    "type": "origins:burn",
+    "interval": 5,
+    "burn_duration": 2,
+    "condition": {
+        "type": "origins:exposed_to_sun"
+      },
+    "name": "Aua, Tag",
+    "description": "Vampir und so (glaube ich zumindestens, ich habe selber keine Ahnung und werde gezwungen, dass hier alleine um 3 Uhr nachts zu schreiben bitte jemand hilf mir)"
+}
