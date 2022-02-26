@@ -26,7 +26,7 @@
 	},
 	"cooldown": 0,
 	"key": {
-		"key": "key.origins.secondary_active",
+		"key": "key.saveToolbarActivator",
 		"continuous": false
 	},
 	"hud_render": {

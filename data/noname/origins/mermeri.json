@@ -5,11 +5,12 @@
 		"noname:broom",
 		"noname:poisoncloud",
 		"noname:effectbuff",
+		"noname:effectnerf",
 		"noname:hpdecreasemermeri",
 		"noname:customarmor",
     "noname:swimhurt",
     "noname:minenerf",
-    "noname:effectnerf"
+		"noname:particle"
 	],
 	"icon": "minecraft:enchanting_table",
 	"order": 1,

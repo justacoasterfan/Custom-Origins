@@ -4,7 +4,7 @@
       "type": "origins:execute_command",
       "command": "summon area_effect_cloud ~ ~0.5 ~ {Particle:\"dust 0.761 0.000 0.000 1\", Radius:4f, RadiusPerTick:0f, RadiusOnUse:0f, Duration:75, DurationOnUse:0f, Owner:[I;676688784,2075477297,-1518145755,161996245], Effects:[{Id:10b, Amplifier:1b, Duration:15, ShowParticles:0b}]}"
     },
-    "cooldown": 6000,
+    "cooldown": 2400,
     "hud_render": {
         "bar_index": 1
     },

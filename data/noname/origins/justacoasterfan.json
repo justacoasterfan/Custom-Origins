@@ -4,7 +4,9 @@
 		"noname:ec",
 		"noname:diaonly",
 		"noname:halfdurability",
-		"noname:moreexhaustionjustacoasterfan"
+		"noname:moreexhaustionjustacoasterfan",
+		"noname:weaktowater",
+		"noname:weaktofire"
 	],
 	"icon": "minecraft:command_block",
 	"order": 1,

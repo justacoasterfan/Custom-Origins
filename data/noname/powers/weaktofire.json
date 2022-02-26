@@ -1,0 +1,14 @@
+{
+  "type:" "origins:modify_damage_taken",
+  "modifier": {
+      "name": "More Damage taken",
+      "operation": "multiply_base",
+      "value": 0.1
+  },
+  "damage_condition": {
+    "type": "origins:name",
+    "name": "onFire"
+  },
+  "name": "Au, Feuer",
+  "description": "Du bist Gott, in den Nether gehst du doch eh nicht..."
+}

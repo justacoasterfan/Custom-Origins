@@ -2,9 +2,11 @@
   "type": "origins:fire_projectile",
   "entity_type": "minecraft:fireball",
   "cooldown": 300,
+  "divergence": 0,
+  "count": 2,
   "hud_render": {
     "should_render": true,
-	"bar_index": 7
+	  "bar_index": 7
   },
   "tag": "{pickup:0b}",
   "key": {
@@ -13,5 +15,5 @@
   },
   "name": "Missile",
   "description": "Weil du es liebst LG.",
-"hidden": "false"
+  "hidden": "false"
 }

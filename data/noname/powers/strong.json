@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "condition": {
+        "type": "origins:moving",
+        "inverted": true
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.1
+    },
+    "name": "Strength",
+    "description": "Stark wenn still. Panzer und so..."
+}
