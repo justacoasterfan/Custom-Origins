@@ -3,7 +3,7 @@
   "entity_type": "minecraft:fireball",
   "cooldown": 300,
   "divergence": 0,
-  "count": 2,
+  "count": 1,
   "hud_render": {
     "should_render": true,
 	  "bar_index": 7

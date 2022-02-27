@@ -1,6 +1,6 @@
 {
     "type": "origins:modify_falling",
-    "velocity": 1.0,
+    "velocity": 0.08,
     "take_fall_damage": false,
     "name": "Less fall damage",
     "description": "Keine Ahnung, weiß selber nicht wieso das hier ist."

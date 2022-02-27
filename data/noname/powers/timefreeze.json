@@ -18,6 +18,10 @@
       {
         "type": "origins:execute_command",
         "command": "execute as @e[distance=..10,name=!BaneHimself] run effect give @s jump_boost 8 128 true"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "summon area_effect_cloud ~ ~1 ~ {Particle:\"totem_of_undying\",Radius:10f,Duration:160,Owner:[I;357687324,-1801961268,-1904775110,-1440043889]}"
       }
 
 ]
